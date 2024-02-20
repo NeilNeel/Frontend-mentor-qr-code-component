@@ -20,7 +20,7 @@ Built with HTML and CSS I've focused on creating a user-friendly and visually ap
 
 ### Screenshot
 
-![alt text](my-solution-design.png)
+![alt text](./images/my-solution-design.png)
 
 ### Links
 
